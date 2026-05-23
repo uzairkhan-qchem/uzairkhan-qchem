@@ -28,7 +28,7 @@ My background spans **DFT**, **ReaxFF molecular dynamics**, and **deep learning*
 
 | Project | Description |
 |--------|-------------|
-| **[vqe‑lih‑pes](https://github.com/uzairkhan-chemAI/vqe-lih-potential-energy-surface)** | Variational Quantum Eigensolver (VQE) for LiH potential energy surface — implementation with noise models and error mitigation. |
+| **[vqe‑lih‑pes](https://github.com/uzairkhan-qchem/vqe-lih-potential-energy-surface)** | Variational Quantum Eigensolver (VQE) for LiH potential energy surface — implementation with noise models and error mitigation. |
 
 ---
 
